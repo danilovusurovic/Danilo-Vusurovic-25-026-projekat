@@ -1,4 +1,4 @@
-# GameProjekat
+# Danilo Vusurovic 25/026 projekat
 
 Jednostavna Java igra – zadatak sa klasama `Player`, `Enemy` i `Game`.
 
